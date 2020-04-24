@@ -1,0 +1,20 @@
+{
+    "Bot": {
+        "Token": "NzAyMzc1NDMzMzU4MDE2NTYy.Xp_JZg.4EwKZa5P0dYh3piH39Jdr5-Jbs8",
+        "Prefix": "-",
+        "StatusTimer": 30
+    },
+    "Moderation": {
+        "GuildID": 702376747815010365,
+        "MailCategoryID": 702743389497720873,
+        "MailCategoryName": "Support",
+        "DefaultLogChannel": 0,
+        "MailRespondTime": 10
+    },
+    "Embeds": {
+        "Moderation": {
+            "Fail": "0xFF2D00",
+            "Success": "0x34A200"
+        }
+    }
+}
